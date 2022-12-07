@@ -18,7 +18,7 @@
     "apollo-server-koa": "^2.15.0",
     "bluebird": "^3.7.2",
     "dotenv": "^8.2.0",
-    "graphql-tools": "^6.0.10",
+    "graphql-tools": "^6.2.6",
     "knex": "^0.21.1",
     "koa": "^2.12.1",
     "moment": "^2.27.0",
